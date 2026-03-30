@@ -82,8 +82,8 @@ Menyimpan data kemampuan atau keahlian.
 ### 4. Tabel profile *(jika digunakan)*
 Menyimpan informasi identitas pengguna.
 
-- Isi Data: nama, peran, dan deskripsi singkat.
-- Fungsi: Ditampilkan pada bagian utama website seperti Hero Section dan About Me.
+- Isi Data: id dan deskripsi singkat.
+- Fungsi: Ditampilkan pada bagian utama website seperti Hero Section.
 
 ---
 
