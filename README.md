@@ -79,11 +79,11 @@ Menyimpan data kemampuan atau keahlian.
 - Isi Data: id, name (nama skill), dan level (tingkat kemampuan dalam persen).
 - Fungsi: Ditampilkan dalam bentuk progress bar untuk menunjukkan tingkat penguasaan skill secara visual.
 
-### 4. Tabel profile *(jika digunakan)*
-Menyimpan informasi identitas pengguna.
+### 4. Tabel profile  
+Tabel ini digunakan untuk menyimpan informasi deskripsi singkat mengenai profil pengguna.
 
-- Isi Data: id dan deskripsi singkat.
-- Fungsi: Ditampilkan pada bagian utama website seperti Hero Section.
+- Isi Data: id dan description (deskripsi singkat tentang diri).
+- Fungsi: Data digunakan untuk ditampilkan pada bagian utama website, seperti di Hero Section.
 
 ---
 
